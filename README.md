@@ -31,7 +31,7 @@ Integrar herramientas de marketing como formularios de suscripción y promocione
 -Capacitación y Soporte: Ofrecer capacitación básica al personal de la empresa para que pueda gestionar y actualizar la página web de manera autónoma. 
 Proveer soporte técnico básico para resolver posibles inconvenientes durante el uso de la página. 
 
-                                                                 Metodología Y Objetivos: 
+                                                           Metodología Y Objetivos: 
 
 Investigación y Planificación: 
 
@@ -67,6 +67,6 @@ Resultados Esperados:
 
 -Reducción de costos asociados con la gestión manual y marketing tradicional. 
 
-                                                                         Conclusión 
+                                                                    Conclusión 
 
 La implementación de esta página web permitirá a “Marbel” superar las limitaciones actuales y aprovechar las ventajas del marketing digital y la gestión automatizada del inventario. Este proyecto no solo mejorará la eficiencia operativa, sino que también contribuirá al crecimiento y éxito a largo plazo de la empresa. 
