@@ -22,7 +22,7 @@ Diseño y Desarrollo Web:
 
 -Estrategias de Marketing Digital: Implementar estrategias básicas de SEO, para mejorar la visibilidad en línea. 
 
-Integrar herramientas de marketing como formularios de suscripción y promociones (Tipo PQR). 
+-Integrar herramientas de marketing como formularios de suscripción y promociones (Tipo PQR). 
 
  
 
