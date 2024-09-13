@@ -14,7 +14,9 @@ La empresa "Marbel", dedicada a la venta de pescados y mariscos, enfrenta dificu
 
 Actualmente, las operaciones se llevan a cabo de forma manual, lo que genera ineficiencias en la distribución de los productos y en la capacidad de responder a la demanda de los clientes de manera oportuna. Además, la limitada presencia en línea reduce las oportunidades de expansión del negocio y su capacidad para atraer nuevos clientes.
 
-Solución Propuesta: Desarrollar una página web accesible y económica utilizando herramientas y plataformas de desarrollo web de bajo costo o gratuitas. Nuestra solución incluirá: 
+Solución Propuesta
+
+Desarrollar una página web accesible y económica utilizando herramientas y plataformas de desarrollo web de bajo costo o gratuitas. Nuestra solución incluirá: 
 
 Diseño y Desarrollo Web: 
 
