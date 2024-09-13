@@ -10,7 +10,9 @@ Diseñar e implementar un sistema de ventas en línea en la página web de "Marb
 
                                                                    Problematica 
 
-La empresa enfrenta dificultades debido a la falta de presupuesto para contratar un desarrollador web profesional. Esta limitación impide que puedan contar con una plataforma adecuada para mejorar sus ventas, mejorar su marketing, y la organización del inventario, estas problematicas son cruciales resolverlas para su crecimiento y éxito en el mercado. 
+La empresa "Marbel", dedicada a la venta de pescados y mariscos, enfrenta dificultades en la gestión de su inventario y en su estrategia de mercadeo debido a la falta de una plataforma digital eficiente que le permita automatizar y optimizar estos procesos. En un mercado cada vez más competitivo y con un creciente uso de tecnologías digitales, la visibilidad y el control sobre los productos son elementos clave para garantizar el crecimiento y la sostenibilidad de la empresa.
+
+Actualmente, las operaciones se llevan a cabo de forma manual, lo que genera ineficiencias en la distribución de los productos y en la capacidad de responder a la demanda de los clientes de manera oportuna. Además, la limitada presencia en línea reduce las oportunidades de expansión del negocio y su capacidad para atraer nuevos clientes.
 
 Solución Propuesta: Desarrollar una página web accesible y económica utilizando herramientas y plataformas de desarrollo web de bajo costo o gratuitas. Nuestra solución incluirá: 
 
