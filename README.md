@@ -39,6 +39,9 @@ Proveer soporte técnico básico para resolver posibles inconvenientes durante e
 La forma eficaz de administrar los elementos de la empresa, como el stock y los clientes, es mediante el uso de tablas y bases de datos. Estos recursos permiten gestionar grandes cantidades de información de
 manera organizada y accesible, lo que facilita el proceso de toma de decisiones. Por ejemplo, en el caso de una empresa que maneja productos perecederos, como una pescadería o una tienda de mariscos, llevar 
 un control del inventario es crucial para evitar pérdidas y garantizar la frescura de los productos.
+¿Porque implementar?
+La gestión manual del stock y el clientes podria falla seguido.Las metodologías de bases de datos puede resolver estos problemas.
+Rquisitos: Un Software para la implementacion de bases y de diseño, se utilizaran Mysql, y html.
                                                            
                                                            Metodología Y Objetivos: 
 
