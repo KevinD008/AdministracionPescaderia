@@ -1,0 +1,21 @@
+﻿NIT ;Nombre_Proveedor;Producto;Cantidad_Disponible;Precio_Unitario;Fecha_Ultima_Entrega;Tel_Contacto;Email_Proveedor;Direccion_Proveedor;Metodo_Pago;Fecha_Pago;Monto_Pago;Calidad_Producto;Frecuencia_Entrega;Tiempo_Entrega;Descuento;Ciudad_Proveedor;Estado_Proveedor;Pais_Proveedor;Comentarios
+900123456-1;Pescados del Norte;Salmón;500;4.5;10/09/2024;301 234 5678;pnorte@gmail.com;Calle Norte 123;Transferencia;11/09/2024;2250;5;Semanal;2 dias;10%;Bogotá -;Cundinamarca ;Colombia;Proveedor confiable
+900234567-2;Mariscos del Sur;Gambas;300;6.2;9/09/2024;302 345 6789;msur@gmail.com;Avenida Sur 234;Cheque;10/09/2024;1860;4;Mensual;5 - días;15%;Medellín ;Antioquia ;Colombia;Entrega puntual
+900345678-3;Pescaderia Atlantico;Atún;400;5.8;8/09/2024;303 456 7890;patlantico@gmail.com;Calle Atlantico 456;Efectivo;8/09/2024;2320;3;Semanal;3 - días;8%;Cali ; Valle del Cauca ; Colombia;Producto fresco
+900456789-4;Oceanicos SA;Camarones;250;7.3;7/09/2024;304 567 8901;oceanicos@gmail.com;Av. Mar­tima 789;Transferencia;9/09/2024;1825;4;Semanal;4 - días;12%;Barranquilla; Atlántico ;Colombia;Descuento por volumen
+900567890-5;Frescos del Pacifico;Trucha;600;5.0;6/09/2024;305 678 9012;fpacifico@gmail.com;Calle PacÃ­fico 321;Cheque;7/09/2024;3000;5;Mensual;7 - días;5%;Cartagena ; Bolívar ;Colombia;Servicio eficiente
+900678901-6;Pescaderia del Caribe;Mejillones;350;6.5;6/09/2024;310 789 0123;pcaribe@gmail.com;Calle Caribe 654;Transferencia;8/09/2024;2275;4;Semanal;4 - días;7%;Bucaramanga ;Santander ;Colombia;Buen servicio
+900789012-7;Mariscos del Atlantico;Sardinas;280;7.0;5/09/2024;311 890 1234;matlantico@gmail.com;Calle Atlantico 456;Efectivo;6/09/2024;1960;3;Mensual;6 - días;10%;Cúcuta ; Norte de Santander ; Colombia;Entrega confiable
+900890123-8;Pescados del Este;Ostras;450;4.2;4/09/2024;312 901 2345;peste@gmail.com;Calle Este 789;Cheque;5/09/2024;1890;5;Semanal;3 - días;8%;Pereira ; Risaralda ; Colombia;Alta calidad
+900901234-9;Marinos del Sur;Pargo;320;6.8;3/09/2024;313 012 3456;marinosur@gmail.com;Av. del Sur 987;Transferencia;4/09/2024;2176;4;Semanal;5 - días;9%;Manizales ;Caldas; Colombia;Rapidez en la entrega
+900012345-0;Pescaderi­a Andina;Almejas;520;4.6;2/09/2024;314 123 4567;pandina@gmail.com;Calle Andes 321;Transferencia;3/09/2024;2392;5;Mensual;2 - días;7%;Armenia ;Quindío ; Colombia;Excelente relaciÃ³n calidad-precio
+901123456-1;Mariscos del Norte;Mero;260;6.4;1/09/2024;315 234 5678;mnorte@gmail.com;Avenida Norte 123;Cheque;2/09/2024;1664;4;Semanal;4 - días;11%;Santa Marta ; Magdalena; Colombia;Calidad estable
+901234567-2;Pesqueros del Sur;Calamares;480;5.1;31/08/2024;316 345 6789;psur@gmail.com;Av. del Sol 456;Efectivo;1/09/2024;2448;5;Semanal;3 - días;6%;Villavicencio ;Meta ; Colombia;Entrega eficiente
+901345678-3;Marinos del Norte;Dorado;270;7.1;30/08/2024;317 456 7890;mnorte@gmail.com;Calle Norte 789;Transferencia;31/08/2024;1917;4;Mensual;5 - días;12%;Ibagué ;Tolima ; Colombia;Excelente servicio
+901456789-4;Pescados de las Americas;Pulpo;490;4.9;29/08/2024;318 567 8901;pamericas@gmail.com;Av. Americas 321;Cheque;30/08/2024;2401;5;Semanal;2 - días;8%;Neiva ;Huila; Colombia;Muy buen producto
+901567890-5;Frescos del Mar;Bacalao;310;6.6;28/08/2024;319 678 9012;fmar@gmail.com;Avenida del Mar 654;Transferencia;29/08/2024;2046;4;Semanal;4 - días;10%;Pasto ;Nariño ; Colombia;Alta frescura
+901678901-6;Pescados y Mariscos del Pacifico;Vieiras;530;4.7;27/08/2024;320 789 0123;pypacifico@gmail.com;Av. Pacifico 987;Efectivo;28/08/2024;2491;5;Mensual;3 - días;7%;Montería ;Córdoba ; Colombia;Excelente servicio
+901789012-7;Marinos de la Costa;Róbalo;290;6.9;26/08/2024;321 890 1234;mcosta@gmail.com;Calle Costa 654;Cheque;27/08/2024;2001;4;Semanal;5 - días;9%;Sincelejo ;Sucre; Colombia;Sin incidencias
+901890123-8;Pescaderi­a del Sol;Langosta;540;5.3;25/08/2024;322 901 2345;psol@gmail.com;Av. Sol 321;Transferencia;26/08/2024;2556;5;Semanal;2 - días;6%;Tunja ;Boyacá ; Colombia;Muy buena calidad
+901901234-9;Mariscos del Caribe;Jurel;330;7.4;24/08/2024;323 012 3456;mcaribe@gmail.com;Avenida del Caribe 789;Transferencia;25/08/2024;2442;4;Mensual;6 - días;12%;Popayán ;Cauca; Colombia;Entrega confiable
+901012345-0;Pescados de la Sierra;Crustáceos;550;4.8;23/08/2024;324 123 4567;psierra@gmail.com;Calle Sierra 123;Efectivo;24/08/2024;2640;5;Semanal;3 - días;8%;Riohacha ;La Guajira ; Colombia;Excelente servicio

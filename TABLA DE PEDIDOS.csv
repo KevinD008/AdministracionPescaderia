@@ -1,0 +1,22 @@
+﻿;;;;;;TABLA DE PEDIDOS;;;;;;;;;;;
+NIT ;Nombre_Proveedor;Tel_Contacto;Email_Proveedor;Direccion_Proveedor;Ciudad_Proveedor;Estado_Proveedor;Pais_Proveedor;Producto;Cantidad_Disponible;Precio_Unitario;Fecha_Ultima_Entrega;Metodo_Pago;Frecuencia_Entrega;Tiempo_Entrega;Descuento;Fecha_Pago;Monto_Pago
+900123456-1;Pescados del Norte;301 234 5678;pnorte@gmail.com;Calle Norte 123;Bogotá -;Cundinamarca ;Colombia;Salmón;500;45,000 COP;10/09/2024;Transferencia;Semanal;2 dias;10%;11/09/2024;2250
+900234567-2;Mariscos del Sur;302 345 6789;msur@gmail.com;Avenida Sur 234;Medellín ;Antioquia ;Colombia;Gambas;300;62,000 COP;9/09/2024;Cheque;Mensual;5 - días;15%;10/09/2024;1860
+900345678-3;Pescaderia Atlantico;303 456 7890;patlantico@gmail.com;Calle Atlantico 456;Cali ; Valle del Cauca ;Colombia;Atún;400;58,000 COP;8/09/2024;Efectivo;Semanal;3 - días;8%;8/09/2024;2320
+900456789-4;Oceanicos SA;304 567 8901;oceanicos@gmail.com;Av. Mar­tima 789;Barranquilla; Atlántico ;Colombia;Camarones;250;73,000 COP;7/09/2024;Transferencia;Semanal;4 - días;12%;9/09/2024;1825
+900567890-5;Frescos del Pacifico;305 678 9012;fpacifico@gmail.com;Calle PacÃ­fico 321;Cartagena ; Bolívar ;Colombia;Trucha;600;50,000 COP;6/09/2024;Cheque;Mensual;7 - días;5%;7/09/2024;3000
+900678901-6;Pescaderia del Caribe;310 789 0123;pcaribe@gmail.com;Calle Caribe 654;Bucaramanga ;Santander ;Colombia;Mejillones;350;65,000 COP;6/09/2024;Transferencia;Semanal;4 - días;7%;8/09/2024;2275
+900789012-7;Mariscos del Atlantico;311 890 1234;matlantico@gmail.com;Calle Atlantico 456;Cúcuta ; Norte de Santander ; Colombia;Sardinas;280;70,000 COP;5/09/2024;Efectivo;Mensual;6 - días;10%;6/09/2024;1960
+900890123-8;Pescados del Este;312 901 2345;peste@gmail.com;Calle Este 789;Pereira ; Risaralda ; Colombia;Ostras;450;42,000 COP;4/09/2024;Cheque;Semanal;3 - días;8%;5/09/2024;1890
+900901234-9;Marinos del Sur;313 012 3456;marinosur@gmail.com;Av. del Sur 987;Manizales ;Caldas; Colombia;Pargo;320;68,000 COP;3/09/2024;Transferencia;Semanal;5 - días;9%;4/09/2024;2176
+900012345-0;Pescaderi­a Andina;314 123 4567;pandina@gmail.com;Calle Andes 321;Armenia ;Quindío ; Colombia;Almejas;520;46,000 COP;2/09/2024;Transferencia;Mensual;2 - días;7%;3/09/2024;2392
+901123456-1;Mariscos del Norte;315 234 5678;mnorte@gmail.com;Avenida Norte 123;Santa Marta ; Magdalena; Colombia;Mero;260;64,000 COP;1/09/2024;Cheque;Semanal;4 - días;11%;2/09/2024;1664
+901234567-2;Pesqueros del Sur;316 345 6789;psur@gmail.com;Av. del Sol 456;Villavicencio ;Meta ; Colombia;Calamares;480;51,000 COP;31/08/2024;Efectivo;Semanal;3 - días;6%;1/09/2024;2448
+901345678-3;Marinos del Norte;317 456 7890;mnorte@gmail.com;Calle Norte 789;Ibagué ;Tolima ; Colombia;Dorado;270;71,000 COP;30/08/2024;Transferencia;Mensual;5 - días;12%;31/08/2024;1917
+901456789-4;Pescados de las Americas;318 567 8901;pamericas@gmail.com;Av. Americas 321;Neiva ;Huila; Colombia;Pulpo;490;49,000 COP;29/08/2024;Cheque;Semanal;2 - días;8%;30/08/2024;2401
+901567890-5;Frescos del Mar;319 678 9012;fmar@gmail.com;Avenida del Mar 654;Pasto ;Nariño ; Colombia;Bacalao;310;66,000 COP;28/08/2024;Transferencia;Semanal;4 - días;10%;29/08/2024;2046
+901678901-6;Pescados y Mariscos del Paci­fico;320 789 0123;pypacifico@gmail.com;Av. Pacifico 987;Montería ;Córdoba ; Colombia;Vieiras;530;47,000 COP;27/08/2024;Efectivo;Mensual;3 - días;7%;28/08/2024;2491
+901789012-7;Marinos de la Costa;321 890 1234;mcosta@gmail.com;Calle Costa 654;Sincelejo ;Sucre; Colombia;Róbalo;290;69,000 COP;26/08/2024;Cheque;Semanal;5 - días;9%;27/08/2024;2001
+901890123-8;Pescaderi­a del Sol;322 901 2345;psol@gmail.com;Av. Sol 321;Tunja ;Boyacá ; Colombia;Langosta;540;53,000 COP;25/08/2024;Transferencia;Semanal;2 - días;6%;26/08/2024;2556
+901901234-9;Mariscos del Caribe;323 012 3456;mcaribe@gmail.com;Avenida del Caribe 789;Popayán ;Cauca; Colombia;Jurel;330;74,000 COP;24/08/2024;Transferencia;Mensual;6 - días;12%;25/08/2024;2442
+901012345-0;Pescados de la Sierra;324 123 4567;psierra@gmail.com;Calle Sierra 123;Riohacha ;La Guajira ; Colombia;Crustáceos;550;48,000 COP;23/08/2024;Efectivo;Semanal;3 - días;8%;24/08/2024;2640
