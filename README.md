@@ -34,7 +34,12 @@ Diseño y Desarrollo Web:
 
 -Capacitación y Soporte: Ofrecer capacitación básica al personal de la empresa para que pueda gestionar y actualizar la página web de manera autónoma. 
 Proveer soporte técnico básico para resolver posibles inconvenientes durante el uso de la página. 
-
+                                                                         
+                                                           Problemas a resolver: 
+La forma eficaz de administrar los elementos de la empresa, como el stock y los clientes, es mediante el uso de tablas y bases de datos. Estos recursos permiten gestionar grandes cantidades de información de
+manera organizada y accesible, lo que facilita el proceso de toma de decisiones. Por ejemplo, en el caso de una empresa que maneja productos perecederos, como una pescadería o una tienda de mariscos, llevar 
+un control del inventario es crucial para evitar pérdidas y garantizar la frescura de los productos.
+                                                           
                                                            Metodología Y Objetivos: 
 
 Investigación y Planificación: 
