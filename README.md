@@ -6,6 +6,7 @@ Desarrollar una página web funcional que permita a "Marbel" gestionar eficiente
  ## Objetivos Específicos
                                                                       
 Diseñar e implementar un sistema de ventas en línea en la página web de "Marbel" que facilite la compra directa de productos para los clientes, optimizando el proceso de pago y mejorando la experiencia de usuario para incrementar las conversiones.
+
 ![logo](https://github.com/user-attachments/assets/6bbca3cb-84f5-4f3e-ae1b-a69e6c224d32)
 
 ## Problematica 
@@ -33,6 +34,11 @@ Desarrollar una página web accesible y económica utilizando herramientas y pla
 
 -Capacitación y Soporte: Ofrecer capacitación básica al personal de la empresa para que pueda gestionar y actualizar la página web de manera autónoma. 
 Proveer soporte técnico básico para resolver posibles inconvenientes durante el uso de la página. 
+
+![Imagen de WhatsApp 2024-11-15 a las 19 56 43_4e7cb2b1](https://github.com/user-attachments/assets/48e9e166-73e3-43c1-9714-83574b1014d8)
+
+![Imagen de WhatsApp 2024-11-15 a las 19 56 30_38680e64](https://github.com/user-attachments/assets/8815c692-07cd-4e11-bcd5-12b69be25970)
+
 ![Imagen de WhatsApp 2024-11-15 a las 19 56 16_1325f8f0](https://github.com/user-attachments/assets/442ed47d-6439-4bc9-a3ee-bd50533f93d5)
 
 
