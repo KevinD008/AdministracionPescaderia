@@ -33,6 +33,8 @@ Desarrollar una página web accesible y económica utilizando herramientas y pla
 
 -Capacitación y Soporte: Ofrecer capacitación básica al personal de la empresa para que pueda gestionar y actualizar la página web de manera autónoma. 
 Proveer soporte técnico básico para resolver posibles inconvenientes durante el uso de la página. 
+![Imagen de WhatsApp 2024-11-15 a las 19 56 16_1325f8f0](https://github.com/user-attachments/assets/442ed47d-6439-4bc9-a3ee-bd50533f93d5)
+
 
                                                                          
 ## Problemas a resolver: 
