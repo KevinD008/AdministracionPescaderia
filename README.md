@@ -105,3 +105,15 @@ Un Software para la implementacion de bases y de diseño, se utilizaran Mysql, y
                                                               
 
 La implementación de esta página web permitirá a “Marbel” superar las limitaciones actuales y aprovechar las ventajas del marketing digital y la gestión automatizada del inventario. Este proyecto no solo mejorará la eficiencia operativa, sino que también contribuirá al crecimiento y éxito a largo plazo de la empresa. 
+
+## Referencias 
+2009, R. h.-j. (Rev haban cienc méd v.8 n.2 Ciudad de La Habana abr.-jun. 2009). PAGINA WEB DE INVESTIGACION CUALITATIVA.
+
+Universal, E. (18 de 05 de 2015). En promedio una persona mira su celular 150 veces en el día.
+
+Ramos, J. (2013). Marketing Digital Para Empresas del Sector Turistico . E Book Distribution .
+
+Arqués-Salvador, N. (2006). Aprender comunicación digital. Paidós ibérica.
+
+Kotler, P. (2000). Los 10 pecados capitales del marketing: signos y soluciones. Barcelona: Gestión.
+
