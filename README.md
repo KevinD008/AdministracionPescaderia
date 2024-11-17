@@ -52,7 +52,7 @@ un control del inventario es crucial para evitar pérdidas y garantizar la fresc
 ## ¿Porque implementar?
 La gestión manual del stock y el clientes podria falla seguido.Las metodologías de bases de datos puede resolver estos problemas.
 
--Rquisitos:
+## Rquisitos:
 Un Software para la implementacion de bases y de diseño, se utilizaran Mysql, y html.
 
                                                            
