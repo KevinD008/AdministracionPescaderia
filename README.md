@@ -17,7 +17,7 @@ Actualmente, las operaciones se llevan a cabo de forma manual, lo que genera ine
 
 ## Solución Propuesta
 
-Desarrollar una página web accesible y económica utilizando herramientas y plataformas de desarrollo web de bajo costo o gratuitas. Nuestra solución incluirá: 
+Desarrollar una forma accesible y económica utilizando SQL 
 
 ## Diseño y Desarrollo Web: 
 
