@@ -33,7 +33,7 @@ SELECT nombre_estado FROM DEPARTAMENTOS WHERE id_pais = 1;
 
 - *Consulta en SQL:*
 <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu2.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu2.PNG?raw=true" width="90%">
 </div>
 
   
