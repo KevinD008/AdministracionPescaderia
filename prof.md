@@ -21,7 +21,7 @@ SELECT nombre_pais FROM PAIS;
 
 - *Consulta en SQL:*
  <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu1.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu1.PNG?raw=true" width="90%">
 </div>
 
   
@@ -43,7 +43,7 @@ SELECT nombre_estado FROM DEPARTAMENTOS WHERE id_pais = 1;
 SELECT nombre_ciudad FROM CIUDAD;
 
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu3.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu3.PNG?raw=true" width="90%">
 </div>
 
 ### 4.¿Cuál es la dirección asociada al proveedor "Pescados del Norte"?
@@ -54,7 +54,7 @@ WHERE id_direccion = (SELECT id_direccion FROM PROVEEDOR WHERE nombre_proveedor 
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu4.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu4.PNG?raw=true" width="90%">
 </div>
 
 ### 5. ¿Qué productos vende el proveedor con el NIT '900123456-3'?
@@ -65,7 +65,7 @@ WHERE nit = '900123456-3';
 
 - *Consulta en SQL:*
 <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu5.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu5.PNG?raw=true" width="90%">
 </div>
 
 ### 6. ¿Qué proveedor tiene el correo 'peste@gmail.com'?
@@ -75,7 +75,7 @@ FROM PROVEEDOR
 WHERE email_proveedor = 'peste@gmail.com';
 
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu6.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu6.PNG?raw=true" width="90%">
 </div>
 
 ### 7. ¿Cuántas ciudades están registradas en el departamento de Antioquia?
@@ -86,7 +86,7 @@ WHERE id_estado = (SELECT id_estado FROM DEPARTAMENTOS WHERE nombre_estado = 'An
 
 - *Consulta en SQL:*
  <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu7.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu7.PNG?raw=true" width="90%">
 </div>
 
 consultas nivel medio (8)
@@ -100,7 +100,7 @@ WHERE c.id_estado = (SELECT id_estado FROM DEPARTAMENTOS WHERE nombre_estado = '
 
 - *Consulta en SQL:*
  <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu8.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu8.PNG?raw=true" width="90%">
 </div>
 
 ### 9. ¿Qué proveedores están asociados a la ciudad de "Bogotá"?
@@ -113,7 +113,7 @@ WHERE c.nombre_ciudad = 'Bogotá';
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu9.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu9.PNG?raw=true" width="90%">
 </div>
 
 ### 10. ¿Qué productos son vendidos por proveedores ubicados en "Medellín"?
@@ -127,7 +127,7 @@ WHERE c.nombre_ciudad = 'Medellín';
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu10.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu10.PNG?raw=true" width="90%">
 </div>
 
 ### 11.¿Cuáles son los departamentos que tienen más de una ciudad registrada?
@@ -140,7 +140,7 @@ HAVING COUNT(c.id_ciudad) > 1;
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu11.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu11.PNG?raw=true" width="90%">
 </div>
 
 ### 12.  ¿Qué productos se venden y cuáles son sus respectivos proveedores y ciudades?
@@ -153,7 +153,7 @@ JOIN CIUDAD c ON d.id_ciudad = c.id_ciudad;
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu12.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu12.PNG?raw=true" width="90%">
 </div>
 
 ### 13.¿Cuántos proveedores están asociados a cada ciudad?
@@ -166,7 +166,7 @@ GROUP BY c.nombre_ciudad;
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu13.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu13.PNG?raw=true" width="90%">
 </div>
 
 ### 14.  ¿Qué proveedores venden "Langosta"?
@@ -178,7 +178,7 @@ WHERE pr.producto = 'Langosta';
 
 - *Consulta en SQL:*
   <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu14.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu14.PNG?raw=true" width="90%">
 </div>
 
 ### 15.¿Qué ciudades tienen proveedores que venden "Atún"?
@@ -192,7 +192,7 @@ WHERE pr.producto = 'Atún';
 
 - *Consulta en SQL:*
  <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/consu15.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/consu15.PNG?raw=true" width="90%">
 </div>
 
 ### CREACION DE USUARIOS
@@ -219,9 +219,9 @@ FLUSH PRIVILEGES;
 
 - *Consulta en SQL:*
 <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/crearusu1.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/crearusu1.PNG?raw=true" width="90%">
 </div>
 <div align="center">
-  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/crearusu2.PNG?raw=true" width="90%">
+  <img src="https://github.com/KevinD008/AdministracionPescaderia/blob/main/imagenes_consultas/crearusu2.PNG?raw=true" width="90%">
 </div>
 </div>
