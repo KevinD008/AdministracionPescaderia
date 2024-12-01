@@ -12,8 +12,7 @@ manera organizada y accesible, lo que facilita el proceso de toma de decisiones.
 un control del inventario es crucial para evitar pérdidas y garantizar la frescura de los productos.
 
 
-
-      ![logo](https://github.com/user-attachments/assets/6bbca3cb-84f5-4f3e-ae1b-a69e6c224d32)
+![logo](https://github.com/user-attachments/assets/6bbca3cb-84f5-4f3e-ae1b-a69e6c224d32)
 
 
 ## Solución Propuesta
